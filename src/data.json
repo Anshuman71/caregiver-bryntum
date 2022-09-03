@@ -1,0 +1,237 @@
+{
+  "caregivers": [
+    {
+      "id": "steve",
+      "name": "Steve Rogers",
+      "eventColor": "blue"
+    },
+    {
+      "id": "tony",
+      "name": "Tony Stark",
+      "eventColor": "orange"
+    },
+    {
+      "id": "bruce",
+      "name": "Bruce Banner",
+      "eventColor": "green"
+    },
+    {
+      "id": "natasha",
+      "name": "Natasha Romano ff",
+      "eventColor": "pink"
+    }
+  ],
+  "schedule": {
+    "Grand Pa": [
+      {
+        "startDate": "Thu Sep 08 2022 16:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 96,
+        "endDate": "Thu Sep 08 2022 18:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "tony"
+      },
+      {
+        "startDate": "Fri Sep 09 2022 06:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 91,
+        "endDate": "Fri Sep 09 2022 07:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Thu Sep 08 2022 05:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 82,
+        "endDate": "Thu Sep 08 2022 07:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "steve"
+      },
+      {
+        "startDate": "Mon Sep 05 2022 18:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 62,
+        "endDate": "Mon Sep 05 2022 20:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "bruce"
+      },
+      {
+        "startDate": "Tue Sep 06 2022 11:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 93,
+        "endDate": "Tue Sep 06 2022 12:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "tony"
+      },
+      {
+        "startDate": "Fri Sep 09 2022 08:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 2,
+        "endDate": "Fri Sep 09 2022 10:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Mon Sep 05 2022 16:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 79,
+        "endDate": "Mon Sep 05 2022 17:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "bruce"
+      },
+      {
+        "startDate": "Sun Sep 04 2022 09:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 15,
+        "endDate": "Sun Sep 04 2022 10:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      }
+    ],
+    "Grand Ma": [
+      {
+        "startDate": "Fri Sep 09 2022 18:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 12,
+        "endDate": "Fri Sep 09 2022 20:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "bruce"
+      },
+      {
+        "startDate": "Fri Sep 09 2022 17:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 96,
+        "endDate": "Fri Sep 09 2022 19:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Mon Sep 05 2022 05:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 98,
+        "endDate": "Mon Sep 05 2022 07:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "tony"
+      },
+      {
+        "startDate": "Fri Sep 09 2022 06:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 91,
+        "endDate": "Fri Sep 09 2022 07:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Thu Sep 08 2022 05:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 65,
+        "endDate": "Thu Sep 08 2022 07:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "steve"
+      },
+      {
+        "startDate": "Mon Sep 05 2022 18:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 62,
+        "endDate": "Mon Sep 05 2022 20:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "bruce"
+      },
+      {
+        "startDate": "Wed Sep 07 2022 11:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 18,
+        "endDate": "Wed Sep 07 2022 13:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "steve"
+      }
+    ],
+    "Uncle": [
+      {
+        "startDate": "Sun Sep 04 2022 17:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 47,
+        "endDate": "Sun Sep 04 2022 18:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "steve"
+      },
+      {
+        "startDate": "Tue Sep 06 2022 04:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 24,
+        "endDate": "Tue Sep 06 2022 06:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Thu Sep 08 2022 06:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 83,
+        "endDate": "Thu Sep 08 2022 07:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "bruce"
+      },
+      {
+        "startDate": "Sun Sep 04 2022 16:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 52,
+        "endDate": "Sun Sep 04 2022 18:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "tony"
+      },
+      {
+        "startDate": "Wed Sep 07 2022 12:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 53,
+        "endDate": "Wed Sep 07 2022 13:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Sun Sep 04 2022 04:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 48,
+        "endDate": "Sun Sep 04 2022 06:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "steve"
+      },
+      {
+        "startDate": "Sun Sep 04 2022 02:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 19,
+        "endDate": "Sun Sep 04 2022 03:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "tony"
+      }
+    ],
+    "Dad": [
+      {
+        "startDate": "Fri Sep 09 2022 10:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 86,
+        "endDate": "Fri Sep 09 2022 12:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Sun Sep 04 2022 12:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 26,
+        "endDate": "Sun Sep 04 2022 14:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "tony"
+      },
+      {
+        "startDate": "Wed Sep 07 2022 07:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 87,
+        "endDate": "Wed Sep 07 2022 08:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "bruce"
+      },
+      {
+        "startDate": "Thu Sep 08 2022 20:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 37,
+        "endDate": "Thu Sep 08 2022 21:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "natasha"
+      },
+      {
+        "startDate": "Mon Sep 05 2022 01:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 3,
+        "endDate": "Mon Sep 05 2022 02:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "tony"
+      },
+      {
+        "startDate": "Mon Sep 05 2022 00:00:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 93,
+        "endDate": "Mon Sep 05 2022 01:00:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "steve"
+      },
+      {
+        "startDate": "Tue Sep 06 2022 08:30:00 GMT+0000 (Coordinated Universal Time)",
+        "id": 10,
+        "endDate": "Tue Sep 06 2022 10:30:00 GMT+0000 (Coordinated Universal Time)",
+        "name": "Caregiver assigned",
+        "resourceId": "bruce"
+      }
+    ]
+  }
+}
